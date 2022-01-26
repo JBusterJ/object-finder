@@ -10,11 +10,17 @@ canvas {
 }
 
 .heading {
-    font-size: 23px;
+    font-size: 30px;
+    font-weight: bold;
     width: 100%;
     margin: 0;
 }
 
 #status, #number_of_objects {
     font-size: 18px;
+}
+
+h3 {
+    color: white;
+
 }
